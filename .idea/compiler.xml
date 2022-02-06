@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Music_Advisor.Music_Advisor-task-build-classes-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-reports-tests.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-test-results.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task-build-tmp.main" target="11" />
+      <module name="Music_Advisor.Music_Advisor-task.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Music_Advisor.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Music_Advisor.Topics-Decorator-Breakfast_Decorator.main" target="11" />
+      <module name="Music_Advisor.Topics-Decorator-Coffee_Decorator.main" target="11" />
+      <module name="Music_Advisor.Topics-Decorator-Disadvantages.main" target="11" />
+      <module name="Music_Advisor.Topics-Decorator-Pizza_Decorator.main" target="11" />
+      <module name="Music_Advisor.Topics-Decorator-Theory.main" target="11" />
+      <module name="Music_Advisor.util.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-classes-java.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-reports-tests.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-test-results.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-build-tmp.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task-out.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Music_Advisor-task.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Decorator-Breakfast_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Decorator-Coffee_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Decorator-Disadvantages.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Decorator-Pizza_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_Copy.Topics-Decorator-Theory.main" target="11" />
+      <module name="Music_Advisor_-_Copy.util.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-classes-java.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-reports-tests.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-test-results.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-build-tmp.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task-out.main" target="11" />
+      <module name="Music_Advisor_-_example.Music_Advisor-task.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Anonymous_classes_properties-Create_instance.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Anonymous_classes_properties-Iterations.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Anonymous_classes_properties-Theory.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Decorator-Breakfast_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Decorator-Coffee_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Decorator-Disadvantages.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Decorator-Pizza_Decorator.main" target="11" />
+      <module name="Music_Advisor_-_example.Topics-Decorator-Theory.main" target="11" />
+      <module name="Music_Advisor_-_example.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
